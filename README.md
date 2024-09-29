@@ -1,0 +1,1 @@
+This project involves researching cloud computing and various cloud service providers. Additionally, it provides a step-by-step guide to creating a free cloud account with a popular provider and includes a screenshot of the completed process.
